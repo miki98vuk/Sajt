@@ -2,72 +2,40 @@
   box-sizing: inherit;
 }
 
-.img1 {
-  background-image: url("../img/MainBoxImg.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.UserImg1 {
-  background-image: url("../img/UserImg.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.nature {
-  background-image: url("../img/Nature.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.sci-fi {
-  background-image: url("../img/Sci-FI.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-
-.games {
-  background-image: url("../img/Games.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-
-.simple {
-  background-image: url("../img/Simple.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;  
-}
-
-.abstract {
-  background-image: url("../img/Abstract.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;  
-}
-
-.music {
-  background-image: url("../img/Abstract.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;  
-}
-
-.cartoon {
-  background-image: url("../img/Cartoon.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;   
-}
-
+.img1,
+.UserImg1,
+.nature,
+.sci-fi,
+.games,
+.simple,
+.abstract,
+.music,
+.cartoon,
 .movie {
-  background-image: url("../img/Movie.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;  
+  background-position: center center; 
 }
+
+.img1 { background-image: url("../img/MainBoxImg.jpg"); }
+
+.UserImg1 { background-image: url("../img/UserImg.jpg"); }
+
+.nature { background-image: url("../img/Nature.jpeg"); }
+
+.sci-fi { background-image: url("../img/Sci-FI.jpg"); }
+
+.games { background-image: url("../img/Games.jpg"); }
+
+.simple { background-image: url("../img/Simple.jpg"); }
+
+.abstract { background-image: url("../img/Abstract.jpg"); }
+
+.music { background-image: url("../img/Abstract.jpg"); }
+
+.cartoon { background-image: url("../img/Cartoon.jpg"); }
+
+.movie { background-image: url("../img/Movie.jpg"); }
 
 html {
   font-family: Helvetica;

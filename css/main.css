@@ -3,67 +3,67 @@
 }
 
 .img1 {
-  background-image: url(https://wallpaperbrowse.com/media/images/High-Definition-Ultra-HD-Wallpaper.jpg);
+  background-image: url("../img/MainBoxImg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .UserImg1 {
-  background-image: url(https://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg);
+  background-image: url("../img/UserImg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .nature {
-  background-image: url(https://images.pexels.com/photos/257360/pexels-photo-257360.jpeg?auto=compress&cs=tinysrgb&h=350);
+  background-image: url("../img/Nature.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .sci-fi {
-  background-image: url(https://www.pcrevue.sk/files/photo/2017-04/26919/eff923/singularity.jpg);
+  background-image: url("../img/Sci-FI.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 .games {
-  background-image: url(https://i.pinimg.com/originals/95/3a/3a/953a3a44d0e7c18f66a2481e2dc9707b.jpg);
+  background-image: url("../img/Games.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 .simple {
-  background-image: url(https://cdn.flii.by/image/v4y505uo1sr.jpg);
+  background-image: url("../img/Simple.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;  
 }
 
 .abstract {
-  background-image: url(https://i.pinimg.com/originals/c3/12/16/c31216424b811a9770b5b7dacb06fa3e.jpg);
+  background-image: url("../img/Abstract.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;  
 }
 
 .music {
-  background-image: url(https://wallpapercave.com/wp/6ow70Kj.jpg);
+  background-image: url("../img/Abstract.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;  
 }
 
 .cartoon {
-  background-image: url(http://longwallpapers.com/Desktop-Wallpaper/funny-cartoon-wallpaper-hd-For-Desktop-Wallpaper.jpg);
+  background-image: url("../img/Cartoon.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;   
 }
 
 .movie {
-  background-image: url(http://br.web.img3.acsta.net/newsv7/16/05/22/16/00/562608.jpg);
+  background-image: url("../img/Movie.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;  

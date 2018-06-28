@@ -1,2 +1,2 @@
 # Sajt
-www.miki98vuk.github.io/Sajt
+https://miki98vuk.github.io/Sajt/
